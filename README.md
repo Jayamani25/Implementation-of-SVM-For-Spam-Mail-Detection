@@ -27,11 +27,9 @@ To write a program to implement the SVM For Spam Mail Detection.
 9.End the Program.
 ## Program:
 ```
-/*
 Program to implement the SVM For Spam Mail Detection..
 Developed by: Jayamani R
 RegisterNumber:  212222100014
-*/
 ```
 ```python
 import pandas as pd
